@@ -15,11 +15,11 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
