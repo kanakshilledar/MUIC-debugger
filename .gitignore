@@ -4,4 +4,5 @@ sym-lib-table
 usb-serial-backups/
 fp-info-cache
 jlcpcb/**
+hw/.history
 #auto_saved_files#

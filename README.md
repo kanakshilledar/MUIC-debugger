@@ -1,8 +1,6 @@
-# usb-serial-ttl
-Isolated USB to serial adapter, TTL 1.8/3.3V level. The IO voltage needs to be
-supplied from the host.
+# MUIC debugger for Android Devices
 
-![USB serial adapter](usb-serial.png)
+Supports multiple resistance values such as 150k, 523k and 619k. There is also a possibility to place your own resistor.
 
-Uses KiCad 8.0 and [kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tool3.3Vs)
-plugin for creating fabrication files.
+### Reference
+This design is inspired from @anders-bzn/usb-serial-ttl
